@@ -1,0 +1,51 @@
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+service-account.json
+
+# PDFs e arquivos gerados pelo SEI
+downloads/
+*.pdf
+*.zip
+
+# Logs
+*.log
+logs/
+
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*~
+
+# Docker
+docker-compose.override.yml
+
+# Cobertura e testes
+.coverage
+htmlcov/
