@@ -214,8 +214,4 @@ Esses itens estão previstos no `.gitignore`.
 
 Projeto desenvolvido por Ezequias Carlos Ferreira da Silva.
 
-<<<<<<< HEAD
 Tribunal de Contas do Estado de Roraima — TCERR.
-=======
-Tribunal de Contas do Estado de Roraima — TCERR.
->>>>>>> 13ef8ab (docs: adicionar README com planejamento dos MVPs)
